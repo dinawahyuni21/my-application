@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Seputar Informasi Kesehatan</string>
+
+    <string-array name="info_kesehatan">
+        <item>Tips Cuci Tangan</item>
+        <item>Tips Menjaga Imunitas Tubuh</item>
+        <item>Tips Olahraga Di Rumah</item>
+        <item>Tips Memilih Makanan Sehat</item>
+        <item>Tips Diet Sehat</item>
+        <item>Tips Pencegahan DBD</item>
+        <item>Tips Pencegahan Covid-19</item>
+    </string-array>
+
+    <string-array name="teras_judul">
+        <item>Cara mencuci tangan yang baik dan benar</item>
+        <item>Cara untuk meningkatkan dan menjaga imunitas tubuh</item>
+        <item>Cara berolahraga sederhana sehat di rumah</item>
+        <item>Cara memilih makanan yang sehat konsumsi</item>
+        <item>Cara untuk menerapkan kiat diet sehat alami</item>
+        <item>Cara mencegah penyakit Demam Berdarah Dengue</item>
+        <item>Cara mencegah dan memutus rantai penularan COVID-19</item>
+    </string-array>
+
+
+    <string-array name="deskripsi">
+        <item>Tangan merupakan salah satu media penularan virus atau bakteri yang paling cepat.
+        Oleh karena itu, mencuci tangan tentu menjadi salah satu hal yang penting agar terhindar
+        dari virus maupun bakteri. Bukan hanya sekedar mencuci tangan dengan air, namun tentunya
+        terdapat beberapa langkah dalam mencuci tangan yang baik dan benar.
+        </item>
+        <item>Sistem imunitas atau daya tahan tubuh memiliki peranan yang penting dalam
+        menjaga kesehatan. Daya tahan tubuh yang kuat dapat mencegah seseorang terserang berbagai
+        macam penyakit. Terdapat berbagai macam cara yang dapat dilakukan untuk meningkatkan
+        imunitas tubuh.</item>
+        <item>Olahraga yang teratur tentu sangat penting untuk menjaga kesehatan tubuh. Kesibukan
+        sehari-hari terkadang menjadi alasan untuk tidak berolahraga. Terdapat beberapa
+        macam olahraga yang dapat dilakukan di rumah  tanpa bantuan alat</item>
+        <item>Tubuh memerlukan berbagai macam nutrisi agar dapat tetap sehat dan pertumbuhan
+        dapat berjalan dengan optimal. Tentu syarat makan yang sehat konsumsi yaitu makanan 4 SEHAT
+        5 SEMPURNA. Untuk mendapatkan makanan yang sehat, seseorang harus mengetahui beberapa tips
+        dalam memilih makanan yang sehat konsumsi.</item>
+        <item>Memiliki berat badan yang berlebih  membuat sebagian orang merasa tidak nyaman atau
+        insecure. Namun, selain masalah penampilan, nyatanya memiliki berat badan yang berlebih
+        juga berpengaruh bagi kesehatan, seperti penyakit jantng, kolesterol, hingga diabetes.
+        </item>
+        <item>Demam Berdarah Dengue(DBD) masuk ke dalam daftar ancaman kesehatan global WHO karena
+        kerap menimbulkan implikasi parah dengan gejala-gejala yang sangat mengganggu. Selain itu DBD
+        belum memiliki obat atau vaksin untuk mengatasi penyakitnya. </item>
+        <item>WHO atau World Health Organization telah menjadikan virus corona COVID-19 berstatus
+        pandemi. Penyebaran virus corona yang semakin membabi buta di berbagai belahan dunia,
+        mengharuskan untuk setiap individu agar turut serta memutus rantai penyebaran COVID-19.
+        </item>
+    </string-array>
+
+    <string-array name="isi">
+        <item>" \t Tips untuk Mencuci Tangan yang Baik dan Benar:
+        1. Basahi telapak tangan dengan air yang mengalir.
+        2. Tuang sabun pada telapak tangan secukupnya untuk
+        menutupi semua permukaan tangan.
+        3. Gosok telapak tangan dengan yang satu ke telapak
+        tangan lainnya.
+        4. Gosok punggung tangan dan sela-sela jari.
+        5. Gosok punggung jari ke telapak tangan dengan posisi
+        jari saling bertautan.
+        6. Genggam dan basuh ibu jari dengan posisi memutar.
+        7. Gosok bagian ujung jari ke telapak tangan agar bagian
+        kuku terkena sabun.
+        8. Gosok tangan yang bersabun dengan air yang mengalir.
+        9. Keringkan tangan dengan lap sekali pakai. \n \n
+        </item>
+        <item>" \t Tips untuk Menjaga Daya Tahan Tubuh:
+        1. Menerapkan pola hidup sehat.
+        2. Memperbanyak konsumsi buah dan sayur.
+        3. Istrihat yang cukup.
+        4. Menghindari stress.
+        5. Menghindari begadang.
+        6. Rutin berolahraga.
+        7. Menghindari rokok dan juga alkohol."
+        </item>
+        <item>" \t Tips untuk Melakukan Olahraga Sederhana di Rumah:
+        1. Jalan-jalan atau Jogging di sekitar lingkungan rumah.
+        2. Latihan Cardio dengan Jumping Jack.
+        3. Melatih otot lengan dengan Push Up.
+        4. Memperkuat otot kaki dengan Leg Lift.
+        5. Memperkuat dan melatih otot perut dengan Sit Up.
+        6. Memperkuat otot kaki dan punggung dengan Squat.
+        7. Angkat beban dengan peralatan sederhana di rumah.
+        8. Menari sebagai media olahraga dan hiburan.
+        9. Memperkuat otot dan tulang kaki dengan Naik Turun
+        Tangga.
+        </item>
+        <item>" \t Tips Memilih Makanan yang Sehat untuk Dikonsumsi:
+        1. Mengamati warna dari makanan.
+        2. Mencium aroma dari makanan.
+        3. Memperhatikan komposisi makanan.
+        4. Mencoba makanan langsung apabila disediakan tester.
+        5. Memperhatikan kualitas makanan.
+        6. Makanan terdaftar di BPOM.
+        </item>
+        <item>" \t Tips untuk Menerapkkan Kiat Diet Sehat:
+        1. Membuat jadwal dan target diet yang jelas.
+        2. Merencankan menu diet sehat dengan gizi yang
+        seimbang.
+        3. Memperbanyak konsumsi serat makanan.
+        4. Rutin sarapan pagi.
+        5. Memkonsumi air mineral yang cukup.
+        6. Menghimdari makanan berminyak dan garam.
+        7. Mengurangi konsumsi gula dan karbohidrat.
+        8. Memperbanyak konsumsi makanan sumber protein,
+        lemak, dan sayuran.
+        9. Mengurangi porsi makan.
+        10. Mengkonsumsi sayur dan buah berlebih.
+        </item>
+        <item>" \t Tips untuk Melakukan Pencegahan terhadap Penyakit DBD:
+        1. Menguras dan menutup tempat penampungan air.
+        2. Rajin membersihkan tempat penampungan air.
+        3. Menggunakan obat nyamuk.
+        4. Hati-hati saat beraktivitasi di luar.
+        5. Menjaga kebersihan lingkungan.
+        6. Beri penerangan yang cukup di rumah.
+        7. Mengenakan pakaian yang tepat.
+        </item>
+        <item>" \t Tips untuk Melakukan Pencegahan Penularan COVID-19:
+        1. Selalu cuci tangan setelah melakukan aktivitas apapun.
+        2. Menerapkan Social Distancing dan Pyhsical Distancing.
+        3. Menghindari menyentuh area mata, hidung, dan mulut.
+        4. Menggunakan masker ketika berpergian.
+        5. Lakukan aturan bersin
+            yang benar.
+        6. Menjaga imunitas tubuh.
+        7. Jika mengalami demam, batuk, dan kesulitan bernapas,
+        segeralah berobat.
+        </item>
+    </string-array>
+</resources>
